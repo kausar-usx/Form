@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string-array name="daftarJurusan">
+        <item>Informatika</item>
+        <item>Matematika</item>
+        <item>Biologi</item>
+        <item>Farmasi</item>
+        <item>Kimia</item>
+        <item>Fisika</item>
+        <item>Statistika</item>
+        <item>Manajemen Informatika</item>
+        <item>Elektronika</item>
+    </string-array>
+
+</resources>
